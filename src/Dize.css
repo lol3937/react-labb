@@ -1,0 +1,20 @@
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    
+}
+
+#GreenDice{
+    background: green;
+}
+
+#BlackDice{
+    background: black;
+    color:white;
+}
+
+#YellowDice{
+    background: yellow;
+
+}
