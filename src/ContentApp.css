@@ -1,0 +1,12 @@
+.card{
+    margin: 1em;
+    background-color: orange;
+}
+
+.content{
+    padding: 2em;
+}
+
+h2{
+    text-align: center;
+}
